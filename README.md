@@ -6,6 +6,12 @@
 - Edit custom.css to modify the colour scheme. VSCode has a built in colour picker.
 - `background: linear-gradient(225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);`
 
+## Why this theme?
+- We found the stock theme a little too dark.
+- Certain elements have a higher contrast to lessen them blending.
+- Some rarely used elements were distracting being different colours.
+- Transparent navigation panels.
+
 ## Gallery
 Blue theme 1
 ![Screenshot from 2022-11-11 12-34-08](https://user-images.githubusercontent.com/7228980/201228328-61f50dfa-4a27-450b-b2ac-cfdb59eac840.png)
