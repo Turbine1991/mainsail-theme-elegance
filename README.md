@@ -3,7 +3,8 @@
 ## Install
 - Create or clear the ".theme" folder inside your Klipper config folder. Example: `~/printer_data/config/.theme/`
 - Copy all files from here inside the ".theme" folder.
-- Edit custom.css to modify the colour scheme.
+- Edit custom.css to modify the colour scheme. VSCode has a built in colour picker.
+- `background: linear-gradient(225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);`
 
 ## Gallery
 Blue theme 1
