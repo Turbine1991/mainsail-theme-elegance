@@ -1,11 +1,11 @@
 # mainsail-theme-elegance
 
-## Setup
+## Install
 - Create or clear the ".theme" folder inside your Klipper config folder. Example: `~/printer_data/config/.theme/`
 - Copy all files from here inside the ".theme" folder.
 - Edit custom.css to modify the colour scheme.
 
-## Screenshot
+## Gallery
 Blue theme 1
 ![Screenshot from 2022-11-11 12-34-08](https://user-images.githubusercontent.com/7228980/201228328-61f50dfa-4a27-450b-b2ac-cfdb59eac840.png)
 
