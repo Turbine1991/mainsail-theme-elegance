@@ -5,5 +5,5 @@
 
 ## Setup
 - Create or clear the ".theme" folder inside your Klipper config folder. Example: `~/printer_data/config/.theme/`
-- Copy all files from here inside.
+- Copy all files from here inside the ".theme" folder.
 - Edit custom.css to modify the colour scheme.
