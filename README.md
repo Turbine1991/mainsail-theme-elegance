@@ -2,7 +2,7 @@
 
 This theme allows you to easily select or create your own colour scheme.
 
-Please edit theme.css to try another colour, animated gradient transition theme, SVG image theme.
+Please edit theme.css to try another colour, animated gradient transition theme, SVG image theme. The screenshots don't do the schemes justice, so please, try each of them out.
 
 ## Install
 - Create or clear the ".theme" folder inside your Klipper config folder. Example: `~/printer_data/config/.theme/`
