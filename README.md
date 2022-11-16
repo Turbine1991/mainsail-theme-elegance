@@ -19,7 +19,7 @@ Blue theme 4
 ![image](https://user-images.githubusercontent.com/7228980/202162850-c2c43bc3-233b-4435-92c5-0523ff998a50.png)
 
 Blue theme 3
-![image](https://user-images.githubusercontent.com/7228980/202162912-bd3cca51-2d1d-4340-8ca8-660c84c83982.png)
+![image](https://user-images.githubusercontent.com/7228980/202163237-d61c7f6f-25b6-45a6-94c5-c767e0e70d97.png)
 
 Blue theme 1
 ![Screenshot from 2022-11-11 12-34-08](https://user-images.githubusercontent.com/7228980/201228328-61f50dfa-4a27-450b-b2ac-cfdb59eac840.png)
