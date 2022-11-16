@@ -1,6 +1,6 @@
 # mainsail-theme-elegance
 
-This isn't supposed to be a set colour theme, but one where you can easily set your own colour scheme.
+This theme allows you to select your own colour scheme. Please edit theme.css to try another colour, animated gradient transition theme, SVG image theme.
 
 ## Install
 - Create or clear the ".theme" folder inside your Klipper config folder. Example: `~/printer_data/config/.theme/`
