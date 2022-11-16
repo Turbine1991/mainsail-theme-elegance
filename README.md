@@ -28,7 +28,10 @@ Blue theme 2
 ![image](https://user-images.githubusercontent.com/7228980/202162971-c866a8e4-5797-497e-a236-ac7ac05b153c.png)
 
 Purple theme 1
-![image](https://user-images.githubusercontent.com/7228980/202163088-e37d2447-aa2d-405c-90b5-7b1a47871dc1.png)
+![image](https://user-images.githubusercontent.com/7228980/202164065-e4ecbd42-bd02-40c3-af5e-0032f8b41430.png)
+
+Purple theme 2
+![image](https://user-images.githubusercontent.com/7228980/202163763-74a6c389-6389-4f68-bff6-e6cdc324474d.png)
 
 SVG theme
 ![image](https://user-images.githubusercontent.com/7228980/202162454-886846e6-b922-4ea3-b745-868a47537920.png)
