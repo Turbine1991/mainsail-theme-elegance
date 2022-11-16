@@ -21,11 +21,21 @@ Change `linear-gradient` to adjust nav + background colours.
 
     /* Comment this if you enable animating below */
     main#content {
-        background: linear-gradient(270deg, #9019ff, #b253ff, #5a02ff);
-        background-size: 300% 300%;
+        background-size: 100% 100%;
+
+        /* Blue theme 1 - Default */
+        background: linear-gradient(to left, #8f94fb, #4e54c8);
+        /* Blue theme 2 */
+        /*background: linear-gradient(45deg, #001f5c, #55bbff);*/
+        /* Blue theme 3 */
+        /*background: linear-gradient(225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);*/
+        /* Purple theme 1 */
+        /*background: linear-gradient(45deg, #ab19ff, #9019ff, #5a02ff);*/
+        /* Purple theme 2 */
+        /*background: linear-gradient(270deg, #9019ff, #b253ff, #5a02ff);*/
     }
 
-    /* Animating hue background */
+    /* Animating hue theme */
     /*main#content {
         background: linear-gradient(270deg,#9426fc, #b253ff, #5a02ff);
         background-size: 400% 400%;
@@ -49,6 +59,18 @@ Change `linear-gradient` to adjust nav + background colours.
         0%{background-position:0% 50%}
         50%{background-position:100% 50%}
         100%{background-position:0% 50%}
+    }*/
+
+    /* SVG Theme */
+    /* Generator: https://app.haikei.app */
+    /* Set generator to at least: 1920x1080 */
+    /*main#content {
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: #f300b6;
+        background-image: url('./background.svg');
     }*/
 }
 
