@@ -37,3 +37,23 @@ SVG theme
 
 Animated gradient theme
 (no image)
+
+## Try out different themes - edit custom.css
+```
+    /* Comment this if you enable animating below */
+    main#content {
+        background-size: 100% 100%;
+
+        /* Blue theme 1 - Default */
+        background: linear-gradient(to left, #8f94fb, #4e54c8);
+        /* Blue theme 2 */
+        /*background: linear-gradient(45deg, #001f5c, #55bbff);*/
+        /* Blue theme 3 */
+        /*background: linear-gradient(225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);*/
+        /* Purple theme 1 */
+        /*background: linear-gradient(45deg, #ab19ff, #9019ff, #5a02ff);*/
+        /* Purple theme 2 */
+        /*background: linear-gradient(270deg, #9019ff, #b253ff, #5a02ff);*/
+    }
+    ...
+ ```
