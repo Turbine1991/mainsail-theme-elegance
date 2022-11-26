@@ -40,7 +40,7 @@ Animated gradient theme
 
 ## Try out different themes - edit custom.css
 ```
-    /* Comment this if you enable animating below */
+    /* Uncomment the background colour you'd like */
     main#content {
         background-size: 100% 100%;
 
